@@ -1,0 +1,5 @@
+{
+  "v": 1,
+  "nota": "Licencias dadas de baja: al abrir la app en línea, la licencia con este número queda en solo consulta. Cada baja: { \"id\": \"nº de la licencia\", \"empresa\": \"...\", \"fecha\": \"AAAA-MM-DD\" }.",
+  "bajas": []
+}
